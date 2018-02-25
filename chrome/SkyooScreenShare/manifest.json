@@ -12,13 +12,15 @@
   },
   "externally_connectable": {
     "matches": [
-      "https://*.skyootutors.com/*"
+      "https://*.skyootutors.com/*",
+      "https://97f9f295.ngrok.io/*",
+      "http://localhost/*"
     ]
   },
   "icons": {
-    "16": "logo16.png",
-    "48": "logo48.png",
-    "128": "logo128.png"
+    "16": "skyoo16.png",
+    "48": "skyoo48.png",
+    "128": "skyoo128.png"
   },
   "permissions": [
     "desktopCapture"
